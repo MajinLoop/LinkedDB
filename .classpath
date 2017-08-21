@@ -32,5 +32,6 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/aleja/Documents/Tec/2017/S2/Datos I/Codigo/varas_de_eclipse/LinkedDB/lib/jackson-all-1.9.0.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
